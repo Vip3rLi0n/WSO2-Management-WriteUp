@@ -48,7 +48,7 @@ Saya cuba untuk mendapatkan akses 'ROOT' daripada back-connect dengan cara menge
 ![Screenshot_22](https://user-images.githubusercontent.com/21289340/233840258-926a6fc8-2e39-4bc6-b3f3-35aa04bf1623.png)
 ![Screenshot_259](https://user-images.githubusercontent.com/21289340/233841650-b66761ff-bd93-4c88-8185-812c336bf98e.png)
 
-Tetapi ianya gagal setelah saya compile dan cuba untuk meng-eksploitasi kernel tersebut. Mungkin disebabkan version kernel server dan CVE agak berbeza satu angka?
+Tetapi ianya gagal setelah saya compile dan cuba untuk meng-eksploitasi kernel tersebut. Mungkin disebabkan version kernel server dan CVE agak berbeza tiga angka?
 
 ![Screenshot_12](https://user-images.githubusercontent.com/21289340/233840359-1d9558f7-faa7-4a2b-9205-5ea091398a61.png)
 
