@@ -46,6 +46,7 @@ Disini saya memanggil fully interactive TTYs menggunakan Python3. Seterusnya, sa
 Saya cuba untuk mendapatkan akses 'ROOT' daripada back-connect dengan cara mengeksploitasi CVE-2017-16995.
 
 ![Screenshot_22](https://user-images.githubusercontent.com/21289340/233840258-926a6fc8-2e39-4bc6-b3f3-35aa04bf1623.png)
+![Screenshot_258](https://user-images.githubusercontent.com/21289340/233841561-2cd26a37-16fe-4214-bea1-80400f3fa75d.png)
 
 Tetapi ianya gagal setelah saya compile dan cuba untuk meng-eksploitasi kernel tersebut. Mungkin disebabkan version kernel server dan CVE agak berbeza satu angka?
 
