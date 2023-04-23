@@ -85,7 +85,10 @@ Apabila melihat login SSH telah berjaya, saya terus melakukan semakan user mengg
 "BOOM!" root. Bukan sahaja akses root, malah saya juga telah mendapatkan akses direct kepada SSH.
 Sekarang ianya telah menjadi LABORATORY peribadi saya. Server itu juga telah dipointing kepada sub-domain saya sendiri.
 
+![Screenshot_260](https://user-images.githubusercontent.com/21289340/233841801-2a15d8f2-9145-4da7-9df6-91d32e67b6b3.png)
+![Screenshot_19](https://user-images.githubusercontent.com/21289340/233841860-723b822d-6d1a-4832-ab1a-7fe7f367c295.png)
+
 Setelah melakukan penyiasatan dengan lebih lanjut, saya mendapati bahawa server tersebut menggunakan Tomcat Apache, dimana ianya menggunakan Java.
 Disitu, 'cmd.jsp' telah di eksploitasi untuk mendapatkan akses SSH root. 
 
-BIG THANKS TO PARI MALAM
+BIG THANKS TO PARI MALAM.
