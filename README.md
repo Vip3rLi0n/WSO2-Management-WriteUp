@@ -1,4 +1,4 @@
-# Write-Up [WSO2 Management]
+# Write-Up [WSO2 Management Exploit]
 
 Assalamualaikum, so harini nak buat writeup dari PoC [WSO2 Management] kepada SSH(berserta Privilege Escalation).
 
